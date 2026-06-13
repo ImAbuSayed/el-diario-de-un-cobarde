@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-diario-de-un-cobarde/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for El diario de un cobarde](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-diario-de-un-cobarde/) |
+| **Get License** | [Official Music Licensing for El diario de un cobarde](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-diario-de-un-cobarde/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mami, dime si esta noche tú te atreves
+> A perder el control mientras la ciudad llueve
+> Tú sabes que me tienes, que mi alma se mueve
+> Buscando esos besos que en la mente me promueves
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
